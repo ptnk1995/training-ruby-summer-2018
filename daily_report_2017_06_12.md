@@ -1,8 +1,8 @@
-#Daily report
+# Daily report
 `June 12, 2017`
 
 ----------
-#HTML
+# HTML
 
 >  **HTML** is an acronym for HyperText Markup Language, which means hypertext markup language.
 
@@ -27,11 +27,11 @@ In which:
  - `<title> and </ title>` are inside the `<head>` tag used to declare the title of the page.
  - `<body> and </ body>` contain the **HTML** code for display on the website.
 
-##Structure of a web page
+## Structure of a web page
 The layout of a website will be divided into sections as follows:
 ![enter image description here](https://image.ibb.co/ckxLqv/Selection_005.png)
 
-##HTML Elements
+## HTML Elements
 >**HTML** has a lot of tags, each with a name that corresponds to its function
 
 example:
@@ -47,7 +47,9 @@ example:
 - tr
 - td
 ...
-###Classify tags
+
+
+### Classify tags
 **Empty Elements**
 >An empty element has no closing tag.
 
@@ -63,23 +65,23 @@ ex: `<div>`, `<section>`, `<form>`, `<p>`,...
 
 ex: `<span>`, `<a>`, `<b>`,...
 
-###Differentiating Block and Inline
+### Differentiating Block and Inline
 The Block block has a full fill of the browser width and the Inline block has a gold fill that just covers its content.
 ![enter image description here](https://image.ibb.co/cxrica/Selection_004.png)
 
-###Popularity HTML tags
-| No.  | tag |  function |
+### Popularity HTML tags
+| No. | tag | function |
 |---|---|---|
-|  1 |  `html` | HTML page opening tag  |
-|  2 |  `head` | The tag contains the tags in the header of the HTML page  |
-|  3 |  `title` | HTML page opening tag  |
-|  4 |  `script` | Used to embed javascript files  |
-|  5 |  `style` | Used to wrap a css content  |
-|  6 |  `a` | Tag create links  |
-|  7 |  `img` | The tag is used to display an image  |
-|  8 |  `br` | Tag line breaks  |
-|  9 |  `hr` | Tag create horizontal lines  |
-|  10 |  `table` | Tag create table  |
-|  11 |  `b` | Make bold text  |
-|  12 |  `i` | Make italic text  |
-|  13 |  `span` | Tag contains content  |
+|  1 |  `html` | 	HTML page opening tag  |
+|  2 |  `head` | 	The tag contains the tags in the header of the HTML page  |
+|  3 |  `title` | 	HTML page opening tag  |
+|  4 |  `script` | 	Used to embed javascript files  |
+|  5 |  `style` | 	Used to wrap a css content  |
+|  6 |  `a` | 	Tag create links  |
+|  7 |  `img` | 	The tag is used to display an image  |
+|  8 |  `br` | 	Tag line breaks  |
+|  9 |  `hr` | 	Tag create horizontal lines  |
+|  10 |  `table` | 	Tag create table  |
+|  11 |  `b` | 	Make bold text  |
+|  12 |  `i` | 	Make italic text  |
+|  13 |  `span` | 	Tag contains content  |
