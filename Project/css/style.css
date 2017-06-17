@@ -1,0 +1,30 @@
+
+*{
+	margin: 0px;
+	font-family: "Arial";	
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: green;
+}
+
+ul li {
+	list-style: none;
+}
+.container{
+	max-width: 1240px;
+	margin: 10px 160px;
+}
+.pull-left {
+	float: left;
+}
+
+.pull-right {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
